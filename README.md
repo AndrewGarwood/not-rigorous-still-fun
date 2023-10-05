@@ -1,2 +1,2 @@
 # not-rigorous-still-fun
-Previous works that are relatively insignificant
+Previous works that are relatively elementary
